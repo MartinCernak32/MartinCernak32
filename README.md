@@ -7,7 +7,6 @@ Software Devloper
 I am currently a student at "FIŠ" University in Novo mesto, i am an aspiring programmer looking to learn as much as i can and improve everyday!
 
 *   🌍  I'm based in Novo mesto
-*   🖥️  See my portfolio at [MyPortfolio](http://https://martincernak.net/)
 *   ✉️  You can contact me at [crki73@gmail.com](mailto:crki73@gmail.com)
 *   🧠  I'm learning Python
 *   🤝  I'm open to collaborating on Everything
